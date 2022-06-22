@@ -9,7 +9,7 @@ importlib-metadata==1.6.0
 jdcal==1.4.1
 kiwisolver==1.2.0
 matplotlib==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.5
 pipenv==2018.11.26
